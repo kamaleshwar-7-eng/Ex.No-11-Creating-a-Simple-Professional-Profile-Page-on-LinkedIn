@@ -33,8 +33,10 @@ LinkedIn shows a “Profile strength” indicator (e.g., Beginner, Intermediate,
 Once all sections are filled in, click “View profile” to see how it appears to others. Click the “Share profile” or “Copy link to profile” option to get a shareable URL, which can be added to a resume, email signature, or ID card for easy access by recruiters, peers, and students.
 ## SAMPLE OUTPUT SCREEN
 The screen below shows a sample completed LinkedIn profile page, illustrating how the name, headline, About section, and Experience section appear once the profile has been filled in.
-<img width="572" height="439" alt="image" src="https://github.com/user-attachments/assets/be7d299c-31c9-49fc-9f8f-63853af11bd6" />
+
 ## OUTPUT
+<img width="1446" height="1003" alt="image" src="https://github.com/user-attachments/assets/2ea6bbb4-748e-4e4d-98d5-fd4023e41800" />
+Profile URL: www.linkedin.com/in/kamaleshwaran-a-a225aa366
 A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
 ## RESULT
 Thus, a simple and professional profile page was successfully created on LinkedIn, with all essential sections filled in correctly and the profile made ready for sharing.
